@@ -16,7 +16,7 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0.41"
 sha2 = "0.8.0"
 snafu = "0.6.0"
-ssb-legacy-msg-data = { git="https://github.com/sunrise-choir/legacy-msg-data", version = "0.1.1" }
+ssb-legacy-msg-data = { git="https://github.com/leo-lb/legacy-msg-data", version = "0.1.1" }
 rand = "0.6"
 rayon = "1.2"
 regex = "1"
